@@ -7,3 +7,6 @@ Don't be shy and fork it to add more!!
 
 [Cracking the Coding Interview 7th](./books/cracking-the-coding-interview-6th-edition.pdf)  
 [Grokking Algorithms](./books/grokking-algorithms.pdf)
+
+## NOTES
+[Rust](./rust/notes.md) 
