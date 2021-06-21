@@ -85,5 +85,37 @@ fn login(user_form: Form<UserLogin>) -> String { // will trigger this handler
 
 ### How to handle multiple states in Rocket?
 
+In Rocket the state its sended from the `rocket::ignite()` method to all the
+handlers inside the `routes!` macro list.
+
 ```rust
+fn main() {
+    rocket::ignite()
+        .manage(DatabaseConnection::connect()) // <-- state
+        .manage(Config::from(other_state)) // <-- another state
+        .mount("/", routes![create_post, delete_post]) // <-- handlers
+}
 ```
+
+Then the state can be retrived via the State type on the handlers
+
+```rust
+#[post("/new_post/", data = "<new_post>")]
+pub fn create_post(new_post: NewPost, conn: State<DatabaseConnection>) -> QueryResult<Post> {
+    diesel::insert_into(posts::table)  // state type wrapper ⤴
+        .values(&new_post)            // to retrive to database connection
+        .get_result(conn)
+}
+```
+
+You can retrive multiple `State` types in a single route.
+
+```rust
+fn state(hit_count: State<HitCount>, config: State<Config>) { /* .. */ }
+//                  ^   state 1   ^          ^  state 2  ^
+```
+
+.TODO: Explain request guards
+.TODO: Explain local state
+.TODO: Explain impl ... for ... on structs
+.TODO: Explain error types in Rust
