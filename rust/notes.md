@@ -82,3 +82,8 @@ fn login(user_form: Form<UserLogin>) -> String { // will trigger this handler
 // in the case we are getting data ⤴
 }
 ```
+
+### How to handle multiple states in Rocket?
+
+```rust
+```
