@@ -15,8 +15,8 @@ Don't be shy and fork it to add more!!
 
 ## Free Computer Science Degree Sources
 
-[Tech Yourself CS](https://teachyourselfcs.com/)
-[A Self-Learning, Modern CS Curriculum](https://functionalcs.github.io/curriculum/)
-[Open Source Society University](https://github.com/ossu/computer-science) 
-[Forrest Knight CS List](https://github.com/ForrestKnight/open-source-cs) 
+[Tech Yourself CS](https://teachyourselfcs.com/)    
+[A Self-Learning, Modern CS Curriculum](https://functionalcs.github.io/curriculum/)     
+[Open Source Society University](https://github.com/ossu/computer-science) (Recommended)     
+[Forrest Knight CS List](https://github.com/ForrestKnight/open-source-cs)       
 
