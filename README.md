@@ -9,6 +9,10 @@ Don't be shy and fork it to add more!!
 [Grokking Algorithms](./books/grokking-algorithms.pdf)
 [Modern Perl 4th](./books/modern-perl-fourth-edition_p1_0.pdf)
 
+# Web Books
+
+[The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read) 
+
 ## Notes
 
 [Rust](./rust/notes.md)
