@@ -37,7 +37,7 @@ level of physical activity or decrease your caloric intake by eating less.
 - Very active (hard exercise 6–7 days/week): AMR = **BMR x 1.9**
 
 For me the formula on the 2022-08-17 will look like: `1907.615 * 1.375`
-and the result will be: `2622.970625`
+with a result of: `2622.970625`
 
 That means that I burn `2623` calories a day.
 
