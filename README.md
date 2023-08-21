@@ -8,6 +8,9 @@ Don't be shy and fork it to add more!!
 [Cracking the Coding Interview 7th](./books/cracking-the-coding-interview-6th-edition.pdf)  
 [Grokking Algorithms](./books/grokking-algorithms.pdf)  
 [Modern Perl 4th](./books/modern-perl-fourth-edition_p1_0.pdf)
+[GNU Parallel 2018](./books/gnu-parallel-2018.pdf)
+[Pro Git](./books/pro-git.pdf)
+[The AWK programming language 1988](./books/the-awk-programming-language(1988).pdf)
 
 # Web Books
 
