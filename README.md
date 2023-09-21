@@ -10,7 +10,7 @@ Don't be shy and fork it to add more!!
 [Modern Perl 4th](./books/modern-perl-fourth-edition_p1_0.pdf)  
 [GNU Parallel 2018](./books/gnu-parallel-2018.pdf)  
 [Pro Git](./books/pro-git.pdf)  
-[The AWK programming language 1988](<./books/the-awk-programming-language(1988).pdf>)
+[The AWK programming language 1988](<./books/the-awk-programming-language(1988).pdf>)  
 [Zero to Production in Rust](./books/zero-to-production-in-rust.pdf)
 
 # Web Books
