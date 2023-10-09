@@ -12,6 +12,7 @@ Don't be shy and fork it to add more!!
 [Pro Git](./books/pro-git.pdf)  
 [The AWK programming language 1988](<./books/the-awk-programming-language(1988).pdf>)  
 [Zero to Production in Rust](./books/zero-to-production-in-rust.pdf)
+[NixOS & Flakes](https://nixos-and-flakes.thiscute.world/)
 
 # Web Books
 
