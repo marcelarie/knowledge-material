@@ -14,7 +14,8 @@ Don't be shy and fork it to add more!!
 [Zero to Production in Rust](./books/zero-to-production-in-rust.pdf)
 [NixOS & Flakes](https://nixos-and-flakes.thiscute.world/)  
 [The Go programming language](./books/the-go-programming-language.pdf)  
-[Write a Redis Clone in Rust](./books/write-a-redis-clone-in-rust.pdf)
+[Write a Redis Clone in Rust](./books/write-a-redis-clone-in-rust.pdf)  
+[Black Hat Rust](./books/black-hat-rust-2022.pdf)  
 
 # Web Books
 
