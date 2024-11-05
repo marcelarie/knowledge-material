@@ -5,17 +5,17 @@ Don't be shy and fork it to add more!!
 
 ## Books
 
+[Black Hat Rust](./books/black-hat-rust-2022.pdf)  
 [Cracking the Coding Interview 7th](./books/cracking-the-coding-interview-6th-edition.pdf)  
-[Grokking Algorithms](./books/grokking-algorithms.pdf)  
-[Modern Perl 4th](./books/modern-perl-fourth-edition_p1_0.pdf)  
 [GNU Parallel 2018](./books/gnu-parallel-2018.pdf)  
+Grokking Algorithms: [1st edition](./books/grokking-algorithms-1st.pdf) + [2nd edition](./books/grokking-algorithms-2nd)  
+[Modern Perl 4th](./books/modern-perl-fourth-edition_p1_0.pdf)  
+[NixOS & Flakes](https://nixos-and-flakes.thiscute.world/)  
 [Pro Git](./books/pro-git.pdf)  
 [The AWK programming language 1988](<./books/the-awk-programming-language(1988).pdf>)  
-[Zero to Production in Rust](./books/zero-to-production-in-rust.pdf)
-[NixOS & Flakes](https://nixos-and-flakes.thiscute.world/)  
 [The Go programming language](./books/the-go-programming-language.pdf)  
 [Write a Redis Clone in Rust](./books/write-a-redis-clone-in-rust.pdf)  
-[Black Hat Rust](./books/black-hat-rust-2022.pdf)  
+Zero to Production in Rust: [pdf](./books/zero-to-production-in-rust.pdf) + [epub](./books/zero-to-production-in-rust.epub)  
 
 # Web Books
 
